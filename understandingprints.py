@@ -1,0 +1,5 @@
+print('harmokay','samuel','kayode','kayode',sep='@')
+print('kayodesamuel','gmail.com',sep='@')
+print('7','8','10',sep='$')
+print('hello',end='\n')
+print('world')
